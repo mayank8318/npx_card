@@ -1,10 +1,10 @@
 {
-  "name": "anmol",
+  "name": "mayank8318",
   "version": "1.0.10",
   "description": "",
   "main": "card.js",
   "bin": {
-    "anmol": "./card.js"
+    "mayank8318": "./card.js"
   },
   "scripts": {
     "test": "node card.js",
