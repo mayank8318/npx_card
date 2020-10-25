@@ -3,7 +3,7 @@ This my NPX card unique style to connect with me directly via console or termina
 
 👇 just hit 
 ```bash
-npx anmol
+npx mayank
 ```
 And get to know me in unique style.
 
@@ -13,7 +13,7 @@ And get to know me in unique style.
 
 The final output might look something like this:
 
-![image](https://github.com/anmol098/npx_card/blob/master/demo.gif)
+![image](https://github.com/mayank8318/npx_card/blob/master/demo.gif)
 
 
 <hr/>
@@ -25,8 +25,8 @@ The final output might look something like this:
 Start a new `node` project and name it whatever you want. You could choose to name it after the executable you want to expose. It’s not necessary but conventions are nice, and it makes your binary more `npx` friendly.
 
 ```bash
-mkdir anmol
-cd anmol
+mkdir mayank
+cd mayank
 npm init -y
 ```
 At first, let’s get the necessary CLI working.

@@ -21,7 +21,7 @@ const questions = [
             {
                 name: `Send me an ${chalk.green.bold("email")}?`,
                 value: () => {
-                    open("mailto:hi@anmolsingh.me");
+                    open("mailto:mayank8318@gmail.com");
                     console.log("\nDone, see you soon at inbox.\n");
                 }
             },
@@ -36,16 +36,16 @@ const questions = [
 ];
 
 const data = {
-    name: chalk.bold.green("             Anmol Pratap Singh"),
-    handle: chalk.white("@anmol098"),
-    work: `${chalk.white("Software Engineer at")} ${chalk
+    name: chalk.bold.green("             Mayank Vaidya"),
+    handle: chalk.white("@mayank8318"),
+    work: `${chalk.white("Software Dev Engineer at")} ${chalk
         .hex("#2b82b2")
-        .bold("ClearTax")}`,
-    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("misteranmol"),
-    github: chalk.gray("https://github.com/") + chalk.green("anmol098"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("anmol098"),
-    web: chalk.cyan("https://anmolsingh.me"),
-    npx: chalk.red("npx") + " " + chalk.white("anmol"),
+        .bold("Amazon")}`,
+    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("mayank8318"),
+    github: chalk.gray("https://github.com/") + chalk.green("mayank8318"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("mayank8318"),
+    // web: chalk.cyan("https://anmolsingh.me"),
+    npx: chalk.red("npx") + " " + chalk.white("mayank"),
 
     labelWork: chalk.white.bold("       Work:"),
     labelTwitter: chalk.white.bold("    Twitter:"),
